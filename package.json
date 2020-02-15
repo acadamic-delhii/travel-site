@@ -13,6 +13,7 @@
     "postcss-simple-vars": "4.1.0",
     "postcss-nested": "2.1.2",
     "postcss-import": "11.0.0",
-    "browser-sync": "2.18.13"
+    "browser-sync": "2.18.13",
+    "postcss-mixins": "6.2.0"
   }
 }
