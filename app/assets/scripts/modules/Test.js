@@ -1,8 +1,12 @@
-function Test(attr1) {
-	this.attr1 = attr1;
-	this.met1 = function() {
-		console.log("attr1 is " + attr1);
+class Test {
+	constructor(attr1) {
+		this.attr1 = attr1;
+	}
+	
+	met1() {
+		console.log("test babel 22... attr1 is " + this.attr1);
 	}
 }
 
-module.exports = Test;
+//module.exports = Test;
+export default Test;
