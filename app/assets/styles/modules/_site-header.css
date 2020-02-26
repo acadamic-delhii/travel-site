@@ -37,6 +37,10 @@
 		@mixin atMedium {
 			visibility: visible;
 		}
+		
+		&--is-visible {
+			visibility: visible;
+		}
 	}
 	
 	&__menu-icon {

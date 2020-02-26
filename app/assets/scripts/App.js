@@ -1,5 +1,3 @@
-//var Test = require('./modules/Test');
-import Test from './modules/Test';
+import MobileMenu from './modules/MobileMenu';
 
-var t = new Test("A10");
-t.met1();
+var mobileMenu = new MobileMenu();
