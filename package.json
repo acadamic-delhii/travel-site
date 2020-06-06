@@ -28,6 +28,8 @@
     "postcss-nested": "2.1.2",
     "postcss-simple-vars": "4.1.0",
     "webpack": "3.8.1",
-    "gulp-modernizr": "1.0.0-alpha"
+    "gulp-modernizr": "1.0.0-alpha",
+    "gulp-imagemin": "4.0.0",
+    "gulp-usemin": "0.3.28"
   }
 }
